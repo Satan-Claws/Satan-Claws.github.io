@@ -4,6 +4,8 @@ layout: default
 permalink: /experience/
 published: true
 ---
+# Experience
+## Throughout my college life, I've tried to be engaged with projects that interest me. These are listed below.
 
 ### Mar 2024 - 
 <img src="/assets/images/TrueBeacon.png" height="75">
@@ -40,6 +42,15 @@ published: true
 
 ### XKDR Forum
 ##### Julia Dev Intern
+
+- did this
+- did that
+- didn't do that 250
+
+### Jun 2022 - Aug 2022
+
+### Galaxy Project: Nordic Earth System
+##### Summer Intern
 
 - did this
 - did that
