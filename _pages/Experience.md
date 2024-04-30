@@ -6,5 +6,6 @@ published: true
 ---
 
 ## March 2024 - 
-## Quantative Researcher Internship \hfill True Beacon
+#### True Beacon
+##### Quantative Research Intern 
 <img src="/assets/images/TrueBeacon.png" width="400">
