@@ -14,3 +14,5 @@ Yooo
 #### h4
 ##### h5
 ###### h6
+
+![True Beacon Logo](/assets/images/TrueBeacon.png)
