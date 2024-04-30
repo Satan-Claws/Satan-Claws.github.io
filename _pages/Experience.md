@@ -15,4 +15,4 @@ Yooo
 ##### h5
 ###### h6
 
-![True Beacon Logo](/assets/images/TrueBeacon.png = 200x)
+![True Beacon Logo](/assets/images/TrueBeacon.png)
