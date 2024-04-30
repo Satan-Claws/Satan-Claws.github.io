@@ -5,7 +5,6 @@ permalink: /experience/
 published: true
 ---
 # Experiences
-### Throughout my education, I've tried to be engaged with industrial projects that interest me. These are listed below.
 
 ### Mar 2024 - 
 <img src="/assets/images/TrueBeacon.png" height="75">
