@@ -14,3 +14,7 @@ published: true
 - did this
 - did that
 - didn't do that 250
+
+<img src="/assets/images/Metamation.jpeg" width="250">
+<img src="/assets/images/AlgoLabs.jpeg" width="250">
+<img src="/assets/images/XKDR.svg" width="250">
