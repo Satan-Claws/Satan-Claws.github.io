@@ -4,54 +4,53 @@ layout: default
 permalink: /experience/
 published: true
 ---
-# Experience
-## Throughout my college life, I've tried to be engaged with projects that interest me. These are listed below.
+# Experiences
+### Throughout my education, I've tried to be engaged with industrial projects that interest me. These are listed below.
 
 ### Mar 2024 - 
 <img src="/assets/images/TrueBeacon.png" height="75">
 
 ### True Beacon
-##### Quantative Research Intern 
+#### Quantitative Research Intern 
 
-- did this
-- did that
-- didn't do that 75
+- Optimized Portfolio Management through conducting in-depth analysis to validate and refine existing models using Machine Learning and Statistics.
+- Researched investing strategies that work in Indian Markets and implemented them along with backtesting.
+
 
 ### Feb 2023 - Jun 2023
 <img src="/assets/images/Metamation.jpeg" height="80">
 
 ### Trumpf Metamation
-##### Project Intern 
+#### Project Intern 
 
-- did this
-- did that
-- didn't do that 250
+- Fine-tuned robot precision using Image Processing for edge detection of metal sheets using MATLAB and OpenCV2, wrote code for Raspberry Pi to guide the robot to pick the sheets from the correct position and orientation.
+- Wrote code to find qr-like marks on a metal sheet to find height and its bend angle.
+
 
 ### Dec 2022 - Feb 2023
 <img src="/assets/images/AlgoLabs.jpeg" height="85">
 
 ### AlgoLabs
-##### Machine Learning Intern
+#### Machine Learning Intern
 
-- did this
-- did that
-- didn't do that 250
+- Implemented OpenAI's Whisper model to make a Video ASR to transcribe Video captioning. Also made pipelines for it to auto-test its accuracy on pre-captioned videos online.
+- Created a model for Invoice Image to Data with labels using PyTesseract and LayoutLMV3. 
+
 
 ### Aug 2022 - Nov 2023
 <img src="/assets/images/XKDR.svg" height="60">
 
 ### XKDR Forum
-##### Julia Dev Intern
+#### Julia Dev Intern
 
-- did this
-- did that
-- didn't do that 250
+- Contributed to the package NISTTests.jl which calculates how precise a Linear Regression Model is.
+- Made functions in R and Julia to calculate the given model's output and compare them with certified data. Wrote Source Code, Documentation, and Test cases for the package.
 
-### Jun 2022 - Aug 2022
+## June 2022 - August 2022
 
 ### Galaxy Project: Nordic Earth System
-##### Summer Intern
+#### Summer Intern
 
-- did this
-- did that
-- didn't do that 250
+- Created a visualization tool using Python, XML, Planemo.
+- Analyzed monthly data from satellites, such as MEERA GLDAS to make Time series plots, CSV files, and create animated cartographic projections, and analyzed Landsat-8 data to calculate NDVI over a region.
+
