@@ -15,6 +15,6 @@ published: true
 - did that
 - didn't do that 250
 
-<img src="/assets/images/Metamation.jpeg" height="125">
+<img src="/assets/images/Metamation.jpeg" height="100">
 <img src="/assets/images/AlgoLabs.jpeg" height="125">
 <img src="/assets/images/XKDR.svg" height="100">
