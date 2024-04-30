@@ -7,7 +7,7 @@ published: true
 # Experiences
 
 ### Mar 2024 - 
-<img src="/assets/images/TrueBeacon.png" height="75">
+<img src="/assets/images/TrueBeacon.png" height="65">
 
 ### True Beacon
 #### Quantitative Research Intern 
@@ -17,7 +17,7 @@ published: true
 
 
 ### Feb 2023 - Jun 2023
-<img src="/assets/images/Metamation.jpeg" height="80">
+<img src="/assets/images/Metamation.jpeg" height="70">
 
 ### Trumpf Metamation
 #### Project Intern 
@@ -27,7 +27,7 @@ published: true
 
 
 ### Dec 2022 - Feb 2023
-<img src="/assets/images/AlgoLabs.jpeg" height="85">
+<img src="/assets/images/AlgoLabs.jpeg" height="95">
 
 ### AlgoLabs
 #### Machine Learning Intern
@@ -37,7 +37,7 @@ published: true
 
 
 ### Aug 2022 - Nov 2023
-<img src="/assets/images/XKDR.svg" height="60">
+<img src="/assets/images/XKDR.svg" height="50">
 
 ### XKDR Forum
 #### Julia Dev Intern
