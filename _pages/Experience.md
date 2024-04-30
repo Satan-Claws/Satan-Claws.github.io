@@ -6,4 +6,4 @@ published: true
 ---
 
 
-<img src="/assets/images/TrueBeacon.png" width="600">
+<img src="/assets/images/TrueBeacon.png" width="400">
