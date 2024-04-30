@@ -8,7 +8,7 @@ published: true
 ## March 2024 - 
 #### True Beacon
 ##### Quantative Research Intern 
-<img src="/assets/images/TrueBeacon.png" width="250">
+<img src="/assets/images/TrueBeacon.png" width="350">
 
 - did this
 - did that
