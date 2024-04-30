@@ -45,7 +45,7 @@ published: true
 - Contributed to the package NISTTests.jl which calculates how precise a Linear Regression Model is.
 - Made functions in R and Julia to calculate the given model's output and compare them with certified data. Wrote Source Code, Documentation, and Test cases for the package.
 
-## June 2022 - August 2022
+### Jun 2022 - Aug 2022
 
 ### Galaxy Project: Nordic Earth System
 #### Summer Intern
