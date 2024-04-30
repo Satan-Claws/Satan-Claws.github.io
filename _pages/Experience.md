@@ -15,4 +15,4 @@ Yooo
 ##### h5
 ###### h6
 
-<img src="assets/images/TrueBeacon.png" width="200">
+<img src="/assets/images/TrueBeacon.png" width="200">
