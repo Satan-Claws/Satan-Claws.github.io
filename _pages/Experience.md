@@ -9,3 +9,6 @@ published: true
 #### True Beacon
 ##### Quantative Research Intern 
 <img src="/assets/images/TrueBeacon.png" width="400">
+- did this and that
+- did that too
+- didn't do that
