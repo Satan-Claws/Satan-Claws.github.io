@@ -7,19 +7,19 @@ published: true
 # Research
 
 
-### May 2024-
+### May 2024 -
 
-### AlgoLabs
-#### Machine Learning Intern
+### LiVe Lab
+#### Resarch Intern
 
-- Implemented OpenAI's Whisper model to make a Video ASR to transcribe Video captioning. Also made pipelines for it to auto-test its accuracy on pre-captioned videos online.
-- Created a model for Invoice Image to Data with labels using PyTesseract and LayoutLMV3. 
+- Working under Prof. Jan Kretinsky at LiVe Lab, a joint Lab between Masaryk University Brno, Czech Republic, and the Technical University of Munich, Germany.
+- Doing verification n shit.
 
 
-### Aug 2022 - Nov 2023
+### Dec 2022 -
 
-### XKDR Forum
-#### Julia Dev Intern
+### Chennai Mathematical Institute
+#### Research Intern
 
-- Contributed to the package NISTTests.jl which calculates how precise a Linear Regression Model is.
-- Made functions in R and Julia to calculate the given model's output and compare them with certified data. Wrote Source Code, Documentation, and Test cases for the package.
+- Working under Prof M.K.Srivas.
+- Verification n shit
