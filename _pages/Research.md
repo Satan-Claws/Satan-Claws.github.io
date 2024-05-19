@@ -8,7 +8,7 @@ published: true
 
 
 ### May 2024 -
-<img src="/assets/images/LiVe.png" height="65">
+<img src="/assets/images/LiVe.png" height="150">
 
 ### LiVe Lab
 #### Resarch Intern
