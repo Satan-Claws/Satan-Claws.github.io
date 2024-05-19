@@ -14,7 +14,7 @@ published: true
 #### Resarch Intern
 
 - Working under Prof. Jan Kretinsky at LiVe Lab, a joint Lab between Masaryk University Brno, Czech Republic, and the Technical University of Munich, Germany.
-- Doing verification n shit.
+- Doing verification n shit lol.
 
 
 ### Dec 2022 -
