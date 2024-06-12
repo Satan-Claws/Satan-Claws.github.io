@@ -1,5 +1,5 @@
 ---
-title: Experience
+title: Problem Solving
 layout: default
 permalink: /problem-solving/
 published: true
