@@ -19,6 +19,4 @@ $$
 f(x) = x + \frac{2x^2}{2!} + \frac{5x^3}{3!} + \frac{15x^4}{4!} + \frac{52x^5}{5!} + \frac{203x^6}{6!} + \ldots
 $$
 
-Find $|f(\pi \cdot i)|$.
-
-Notation: $i = -1$ denotes the imaginary unit.
+Simplify $f$
