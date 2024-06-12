@@ -1,5 +1,5 @@
 ---
-title: Number Sequence Function
+title: Coeff2
 layout: default
 permalink: /ps/coeff2/
 published: true
