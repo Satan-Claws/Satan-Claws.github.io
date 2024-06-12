@@ -9,7 +9,7 @@ A sequence of numbers is made like this:
 
 We start with $1$ and we rewrite $1$ in the diagonal column. Then another number is made by filling a box with its top and right neighbors' sum. And when we arrive at the 1st row, we rewrite the result in the next box in the diagonal column, and continue this process.
 
-<img src="/assets/images/coeff.gif" height="200">
+<img src="/assets/images/LiVe.png" height="200">
 
 We then note the numbers of the first row follow the sequence below:
 
