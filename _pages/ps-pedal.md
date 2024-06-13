@@ -1,7 +1,7 @@
 ---
 title: Pedal's Pedal
 layout: default
-permalink: /ps/pedal/
+permalink: /problems/pedal/
 published: true
 ---
 
