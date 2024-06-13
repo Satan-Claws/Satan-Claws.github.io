@@ -1,7 +1,7 @@
 ---
 title: Its just adding and subtracting
 layout: default
-permalink: /ps/adding-subtracting/
+permalink: /problems/adding-subtracting/
 published: true
 ---
 
