@@ -6,6 +6,7 @@ published: true
 ---
 
 ![triangle1](/assets/images/triangle1.png)
+
 This is a "5-Check" triangle and is being colored using Red and Cyan, such that three small triangles are Red and the rest are Cyan.
 
 Two patterns are called "clones" if one can be rotated one-third ways to get another.
