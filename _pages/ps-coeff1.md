@@ -1,7 +1,7 @@
 ---
 title: Coeff1
 layout: default
-permalink: /ps/coeff1/
+permalink: /problems/coeff1/
 published: true
 ---
 
