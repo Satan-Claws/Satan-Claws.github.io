@@ -1,7 +1,7 @@
 ---
 title: Limit-Tan
 layout: default
-permalink: /problems/Limit-Tan/
+permalink: /problems/limit-tan/
 published: true
 ---
 
