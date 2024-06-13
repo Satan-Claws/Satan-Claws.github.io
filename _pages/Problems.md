@@ -5,7 +5,7 @@ permalink: /problems/
 published: true
 ---
 
-# Problem Solving
+# Problems
 
 - [Adding and Subtracting](/problems/adding-subtracting/)
 - [Sequence of Sequences](/problems/coeff1/)
