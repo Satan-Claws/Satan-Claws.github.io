@@ -15,7 +15,7 @@ published: true
 - [Counting Squares](/problems/lattice-square-counting/)
 - [Hex Radius](/problems/hexagon-in-radius-region/)
 - [Triangle Coloring](/problems/triangle-coloring/)
-- [Tan Limit](/problems/Limit-Tan/)
+- [Tan Limit](/problems/limit-tan/)
 - [Tic-Tac-Toe](/problems/tic-tac-toe/)
 - [Triangle Rotation](/problems/triangle-rotation/)
 - [Recurrent Matrix](/problems/matrixes/)
