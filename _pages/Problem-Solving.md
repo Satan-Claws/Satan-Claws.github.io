@@ -23,5 +23,5 @@ I've always been interested in trying out different puzzles and I've dabbled a b
 Throughout my problem-solving journey, I've noticed some interesting patterns and created some original problems. I used to post them on Brilliant.org, but the website changed its format and no longer has user-posted content. So I decided I'll put my original problems here.
 
 <div style="text-align: center; font-size: 2em;">
-  <a href="/ps/adding-subtracting/">Take me to Problems</a>
+  <a href="/problems/">Take me to Problems</a>
 </div>
