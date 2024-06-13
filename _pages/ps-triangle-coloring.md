@@ -5,7 +5,7 @@ permalink: /problems/triangle-coloring/
 published: true
 ---
 
-![triangle1](/assets/images/triangle1.png)
+![triangle1](/assets/images/triangle1.png =x300)
 
 This is a "5-Check" triangle and is being colored using Red and Cyan, such that three small triangles are Red and the rest are Cyan.
 
