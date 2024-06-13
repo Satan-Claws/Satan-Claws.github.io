@@ -17,3 +17,5 @@ published: true
 [Tan Limit](/problems/Limit-Tan/)
 [Tic-Tac-Toe](/problems/tic-tac-toe/)
 [Triangle Rotation](/problems/triangle-rotation/)
+[Recurrent Matrix](/problems/matrixes/)
+[Marble scale](/problems/marble-scale/)
