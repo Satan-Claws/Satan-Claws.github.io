@@ -19,7 +19,7 @@ published: true
 
 
 ### Dec 2022 -
-
+<img src="/assets/images/cmi.png" height="150">
 ### Chennai Mathematical Institute
 #### Research Intern
 
