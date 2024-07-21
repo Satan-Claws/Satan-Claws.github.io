@@ -47,7 +47,7 @@ published: true
 - Made functions in R and Julia to calculate the given model's output and compare them with certified data. Wrote Source Code, Documentation, and Test cases for the package.
 
 ### Jun 2022 - Aug 2022
-
+<img src="/assets/images/nordic.png" height="50">
 ### Galaxy Project: Nordic Earth System
 #### Summer Intern
 
