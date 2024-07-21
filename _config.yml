@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Akhoury Shauryam  
-description: idk what to put here
+description: Chennai Mathematical Institute
 
 baseurl: "/" #name of GitHub repository
 url: "satan-claws.github.io" #custom url to be used instead of GitHub repository
@@ -13,15 +13,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+linkedin: "https://www.linkedin.com/in/akhoury-shauryam-a87195221/"
+github: "https://github.com/Satan-Claws"
+
 
 
 # Markdown
