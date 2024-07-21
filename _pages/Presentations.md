@@ -13,3 +13,4 @@ published: true
 - Explained Nisheeth Vishnoi's Gradient Descent derivation and utilization on different types of Convex Functions.
 - [Wrote and Presented Non-Trivial contracts written in Solidity for English Auction and Crowd Funding](https://github.com/Satan-Claws/Presentations/blob/main/Blockchain_Presentation_English_Auction__.pdf)
 - [AttentionGAN for Multi-Domain Image-to-Image translation](https://github.com/Satan-Claws/Presentations/blob/main/CVSN_Presentation.pdf)
+- [Safe Reinforcement Learning Via Shielding](https://github.com/Satan-Claws/Presentations/blob/main/Safe_RL_Via_Shielding.pdf)
