@@ -12,8 +12,9 @@ published: true
 ### True Beacon
 #### Quantitative Research Intern 
 
+- Researching Factor Model Research for Indian Markets.
 - Optimized Portfolio Management through conducting in-depth analysis to validate and refine existing models using Machine Learning and Statistics.
-- Researched investing strategies that work in Indian Markets and implemented them along with backtesting.
+- Implemented innovative methods along with backtesting.
 
 
 ### Feb 2023 - Jun 2023
