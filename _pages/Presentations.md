@@ -5,7 +5,7 @@ permalink: /presentations/
 published: true
 ---
 
-# Problems
+# Presentations and Talks
 
 - [Strategy Repair in Reachability Games](https://github.com/Satan-Claws/Presentations/blob/main/SRP.pdf)
 - [A Generalized Online Mirror Descent with Applications to Regression](https://github.com/Satan-Claws/Presentations/blob/main/OMD_Regression.pdf)
