@@ -23,6 +23,9 @@ published: true
 ### Chennai Mathematical Institute
 #### Research Intern
 
-- Working under Prof M.K.Srivas in the area of Formal Methods and Machine Learning.
+- Working under Prof M.K.Srivas in the area of Machine Learning $\intersection$ Formal Methods.
 - Creating a new tool for safety verification of ReLU activated DNNs.
 - Studying methods to guarantee safety in Reinforcement Learning methods such as Shielding.
+- Teacher's Assistant for:
+    - Topics in Formal Methods and Machine Learning
+    - Software Verification and Analysis
