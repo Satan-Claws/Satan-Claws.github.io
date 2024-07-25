@@ -9,7 +9,7 @@ published: true
 
 I am a Final Year Computer Science Master's Student at Chennai Mathematical Institute. I am being advised by Prof M.K. Srivas. 
 
-My research interests lie broadly in Stastics, Formal Methods, Machine Learning, and the intersections between them.
+My research interests lie broadly in Statistics, Formal Methods, Machine Learning, and the intersections between them.
 
 Currently, I am working as a Quantitative Research Intern at True Beacon, an Asset Management Firm based in Bengaluru. Here, I am working on Factor Model Research in the Indian Markets.
 
