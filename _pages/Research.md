@@ -27,5 +27,6 @@ published: true
 - Creating a new tool for safety verification of ReLU activated DNNs.
 - Studying methods to guarantee safety in Reinforcement Learning methods such as Shielding.
 - Teacher's Assistant for:
-    - Topics in Formal Methods and Machine Learning
-    - Software Verification and Analysis
+    - Topics in Formal Methods and Machine Learning (Aug 2023 - Dec 2023 under Prof M.K. Srivas)
+    - Software Verification and Analysis (Aug 2024 - Dec 2024 under Prof M.K. Srivas)
+    - Natural Language Processing (Aug 2024 - Dec 2024 under Prof R. Ramachandran)
