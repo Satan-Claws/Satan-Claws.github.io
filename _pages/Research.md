@@ -6,6 +6,14 @@ published: true
 ---
 # Research
 
+### Aug 2024 -
+<img src="/assets/images/SupraOracles.svg" height="150">
+
+### Supra Oracles
+#### Thesis Project
+
+- Working under Prof. M.K. Srivas and Prof. M. Praveen in collaboration with Supra Oracles to perform verification on Blockchain Protocols.
+
 
 ### May 2024 - July 2024
 <img src="/assets/images/LiVe.png" height="150">
