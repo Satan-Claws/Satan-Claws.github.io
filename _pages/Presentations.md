@@ -7,6 +7,7 @@ published: true
 
 # Presentations and Talks
 
+- [Understanding the Raft Consensus Algorithm](https://github.com/Satan-Claws/Presentations/blob/main/RAFT_Presentation.pdf)
 - [Safe Reinforcement Learning Via Shielding](https://github.com/Satan-Claws/Presentations/blob/main/Safe_RL_Via_Shielding.pdf)
 - [Strategy Repair in Reachability Games](https://github.com/Satan-Claws/Presentations/blob/main/SRP.pdf)
 - [A Generalized Online Mirror Descent with Applications to Regression](https://github.com/Satan-Claws/Presentations/blob/main/OMD_Regression.pdf)
