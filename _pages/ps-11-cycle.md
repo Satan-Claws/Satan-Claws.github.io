@@ -1,5 +1,5 @@
 ---
-title: 101-Cycle
+title: 11-Cycle
 layout: default
 permalink: /problems/11-cycle/
 published: true
