@@ -20,4 +20,4 @@ published: true
 - [Triangle Rotation](/problems/triangle-rotation/)
 - [Recurrent Matrix](/problems/matrixes/)
 - [Marble Scale](/problems/marble-scale/)
-- [101-Cycle](/problems/101-cycle/)
+- [11-Cycle](/problems/11-cycle/)
