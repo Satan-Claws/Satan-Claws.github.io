@@ -6,15 +6,23 @@ published: true
 ---
 # Experiences
 
-### Mar 2024 - 
+### Dec 2024 - 
+<img src="/assets/images/lyric.svg" height="65">
+
+### Lyric
+#### Operations Reserach Scientist
+
+- Joined [Lyric](https://lyric.tech/) as an OR Scientist.
+
+### Mar 2024 - Nov 2024
 <img src="/assets/images/TrueBeacon.png" height="65">
 
 ### True Beacon
 #### Quantitative Research Intern 
 
-- Researching Factor Model Research for Indian Markets.
+- Researched Factor Model Research for Indian Markets.
 - Optimized Portfolio Management through conducting in-depth analysis to validate and refine existing models using Machine Learning and Statistics.
-- Implemented innovative methods along with backtesting.
+- Worked on Algorithm to Pick Mutual Funds and Recreate them using low-cost indices.
 
 
 ### Feb 2023 - Jun 2023
