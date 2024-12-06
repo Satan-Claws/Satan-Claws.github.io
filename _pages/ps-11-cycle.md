@@ -1,7 +1,7 @@
 ---
 title: 101-Cycle
 layout: default
-permalink: /problems/101-cycle/
+permalink: /problems/11-cycle/
 published: true
 ---
 
