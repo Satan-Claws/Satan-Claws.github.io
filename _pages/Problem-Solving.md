@@ -13,7 +13,8 @@ published: true
 I've always been interested in trying out different puzzles and I've dabbled a bit in contests with some success, some of them being:
 
 - JEE Advanced (2020) Mathematics 130/132
-- Qualified for ICPC Chennai and Amritapuri Regionals (2025) (TBD)
+- ICPC Regionals Rank 21 Chennai Site (2025)
+- ICPC Regionals Rank 154 Amritapuri Site (2024)
 - ICPC Regionals Rank 51 Chennai Site (2024)
 - Simon Marais Mathematics Competition [SMMC] (2023) - 4th All India Rank, 38th Global East
 - Specialist on Codeforces
