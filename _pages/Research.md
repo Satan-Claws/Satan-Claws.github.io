@@ -6,6 +6,14 @@ published: true
 ---
 # Research
 
+### Feb 2025 -
+<img src="/assets/images/aokilab.png" height="150">
+
+### Aoki Laboratory
+#### Research Intern
+
+- Working under Prof. Aoki Toshiaki on the Topic "Formal Methods and Autonomus Driving" to make Autoware's Planning more safe and identify the cause of a crash.
+
 ### Aug 2024 -
 <img src="/assets/images/SupraOracles.svg" height="150">
 
