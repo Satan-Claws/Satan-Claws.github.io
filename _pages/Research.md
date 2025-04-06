@@ -7,7 +7,7 @@ published: true
 # Research
 
 ### Feb 2025 -
-<img src="/assets/images/aokilab.png" height="85">
+<img src="/assets/images/aokilab.png" height="75">
 
 ### Aoki Laboratory
 #### Research Intern
